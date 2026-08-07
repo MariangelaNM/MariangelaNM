@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mariángela</h1>
-<h4 align="center">As a Computer Engineer. Passionate about creating innovative solutions, 
-            I focus on optimizing the performance and security of applications. Constantly seeking new challenges and learning opportunities in technology.
-</h4>
 
-- 🔭 I’m currently working on **learning new technologies**
-- 🌱 Improving my development skills
+<h3 align="center">Computer Engineer focused on building, learning, and improving through technology.</h3>
+
+<p align="center">
+I enjoy turning ideas into practical solutions, writing better code, and understanding how technology can be used to create reliable and efficient applications.
+</p>
+
+* 💻 Exploring different areas of **software development**
+* 🌱 Currently expanding my knowledge in **new technologies and tools**
+* 🧠 Focused on improving my **problem-solving and coding skills**
+* ⚙️ Interested in **performance, clean code, and application security**
+* 🎯 Always looking for projects that challenge me to learn something new
+
+
 
 
 <h3 align="left">Connect with me:</h3>
